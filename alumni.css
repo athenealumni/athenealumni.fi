@@ -1,0 +1,27 @@
+.jumbotron {
+  background: url(assets/hero.jpg);
+  background-position: 50% 0;
+  background-repeat: no-repeat;
+  height: 735px;
+}
+
+.jumbotron h1 {
+  color: white;
+}
+.jumbotron p {
+  color: #eee;
+}
+
+.jumbotron .container {
+  position: relative;
+  height: 100%;
+}
+
+.jumbotron .container header {
+  position: absolute;
+  bottom: 0;
+}
+
+.cta {
+  text-align: center;
+}
