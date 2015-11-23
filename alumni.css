@@ -25,3 +25,12 @@
 .cta {
   text-align: center;
 }
+
+.container .row {
+  margin-bottom: 1em;
+}
+
+footer {
+  color: #efefef;
+  background-color: #222;
+}
