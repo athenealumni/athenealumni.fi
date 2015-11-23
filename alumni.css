@@ -1,3 +1,20 @@
+
+@font-face {
+    font-family: 'MuseoSlab500';
+    src: url('./assets/fonts/museo_slab-webfont.eot');
+    src: url('./assets/fonts/museo_slab-webfont.eot?#iefix') format('embedded-opentype'),
+         url('./assets/fonts/museo_slab-webfont.woff') format('woff'),
+         url('./assets/fonts/museo_slab-webfont.ttf') format('truetype'),
+         url('./assets/fonts/museo_slab-webfont.svg#MuseoSlab500') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1 {
+  font-family: "MuseoSlab500";
+  letter-spacing: -2px;
+}
+
 .jumbotron {
   background: url(assets/hero.jpg);
   background-position: 50% 0;
@@ -39,3 +56,4 @@ footer {
 footer .futurice {
   width: 128px;
 }
+
