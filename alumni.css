@@ -10,6 +10,10 @@
     font-style: normal;
 }
 
+body {
+  font-size: 16px;
+}
+
 h1 {
   font-family: "MuseoSlab500";
   letter-spacing: -2px;
@@ -45,8 +49,8 @@ h3 {
   bottom: 0;
 }
 
-.cta {
-  text-align: center;
+.toiminta {
+  border-right: 1px solid #eee;
 }
 
 .container .row {
