@@ -20,6 +20,7 @@ h1 {
 }
 h2 {
   font-family: "MuseoSlab500";
+  margin-bottom: 1em;
 }
 h3 {
   font-family: "MuseoSlab500";
@@ -54,6 +55,10 @@ header .hr {
   width: 30%;
   border-bottom: 4px solid #fff;
   margin: 0.7em 0;
+}
+
+.container {
+  margin-bottom: 3em;
 }
 
 .container .row {
