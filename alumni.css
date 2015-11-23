@@ -111,3 +111,7 @@ footer h3 {
   text-transform: uppercase;
   border-radius: 0;
 }
+
+.yhteystiedot a {
+  color: #efefef;
+}
