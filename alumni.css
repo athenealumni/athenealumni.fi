@@ -53,6 +53,15 @@ h3 {
   margin-bottom: 1em;
 }
 
+.hallitus img {
+  -webkit-transition: -webkit-transform .8s ease-in-out;
+  transition: transform .8s ease-in-out;
+}
+.hallitus img:hover {
+  -webkit-transform: rotate(360deg);
+  transform: rotate(360deg);
+}
+
 footer {
   color: #efefef;
   background-color: #222;
