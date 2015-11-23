@@ -80,12 +80,23 @@ footer {
   padding-bottom: 4em;
 }
 
-footer .futurice {
+.logot .media {
+  margin-bottom: 2em;
+}
+
+footer .futurice img {
   width: 256px;
 }
 
 footer .athene {
+  font-family: "MuseoSlab500";
+  font-size: 1.2em;
+}
+footer .athene img {
   width: 80px;
+}
+footer .athene .media-body p {
+  margin-left: 1em;
 }
 
 footer h3 {
