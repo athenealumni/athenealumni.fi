@@ -33,4 +33,9 @@
 footer {
   color: #efefef;
   background-color: #222;
+  padding-bottom: 3em;
+}
+
+footer .futurice {
+  width: 128px;
 }
