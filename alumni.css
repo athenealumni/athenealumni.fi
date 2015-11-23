@@ -52,12 +52,8 @@ h3 {
 
 header .hr {
   width: 30%;
-  border-bottom: 5px solid #fff;
+  border-bottom: 4px solid #fff;
   margin: 0.7em 0;
-}
-
-.toiminta {
-  border-right: 1px solid #eee;
 }
 
 .container .row {
