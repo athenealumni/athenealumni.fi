@@ -14,6 +14,12 @@ h1 {
   font-family: "MuseoSlab500";
   letter-spacing: -2px;
 }
+h2 {
+  font-family: "MuseoSlab500";
+}
+h3 {
+  font-family: "MuseoSlab500";
+}
 
 .jumbotron {
   background: url(assets/hero.jpg);
@@ -50,10 +56,19 @@ h1 {
 footer {
   color: #efefef;
   background-color: #222;
-  padding-bottom: 3em;
+  padding-bottom: 4em;
 }
 
 footer .futurice {
-  width: 128px;
+  width: 256px;
 }
 
+footer .athene {
+  width: 80px;
+}
+
+footer h3 {
+  color: #888;
+  margin-top: 2em;
+  margin-bottom: 2em;
+}
